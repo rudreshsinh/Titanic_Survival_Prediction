@@ -1,1 +1,1 @@
-This project focuses on analyzing the Titanic dataset and building a machine learning model to predict whether a passenger survived or not. It covers the complete data science pipeline from data preprocessing to visualization and prediction.
+https://colab.research.google.com/drive/16jlUygrLny3oJcgx6HhafbmO-0d23l3U?usp=sharing
